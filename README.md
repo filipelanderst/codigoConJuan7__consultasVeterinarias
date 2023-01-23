@@ -2,8 +2,8 @@
 
   <div>
     <img
-      style="width: 30px"
-      src="https://cdn-icons-png.flaticon.com/512/5736/5736969.png"
+      style="width: 300px"
+      src="https://raw.githubusercontent.com/flx-lander7/codeLessons/main/tutorial.png?token=GHSAT0AAAAAAB4VY3OIPA7B5XE33M5BFFWEY6OP2YQ"
       alt="tutorial"
     />
   </div>
