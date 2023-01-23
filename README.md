@@ -3,7 +3,7 @@
   <div>
     <img
       style="width: 300px"
-      src="https://github.com/flx-lander7/resources/blob/main/Tutorial.png"
+      src="https://raw.githubusercontent.com/flx-lander7/resources/main/Tutorial.png?token=GHSAT0AAAAAAB4VY3OI76MXV24BTBA6BEUCY6OQXIQ"
       alt="tutorial"
     />
   </div>
