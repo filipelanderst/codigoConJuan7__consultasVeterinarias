@@ -6,9 +6,7 @@
       src="https://raw.githubusercontent.com/flx-lander7/resources/main/Tutorial.png?token=GHSAT0AAAAAAB4VY3OI76MXV24BTBA6BEUCY6OQXIQ"
       alt="tutorial"
     />
-  </div>
-  
-  **Projeto tutorial**
+  </div> 
 
 Projeto feito no curso de __JavaScript Moderno Guía Definitiva Construye +15 Proyectos__ do professor __Juan Pablo de La Torre Valdez__.
 
